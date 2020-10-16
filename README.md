@@ -1,0 +1,2 @@
+# SQLPractice
+Ble SQL practice
